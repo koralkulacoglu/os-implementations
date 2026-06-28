@@ -56,3 +56,6 @@ dkms.conf
 
 # Claude Code context
 CLAUDE.md
+
+# Resources (large PDFs etc.)
+resources/
