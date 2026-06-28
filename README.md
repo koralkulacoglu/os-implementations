@@ -1,2 +1,3 @@
-# operating-system-tests
-C code to learn/test OS concepts
+# os-implementations
+
+C/C++ code to reimplement OS concepts
